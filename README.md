@@ -9,7 +9,7 @@
 
 - 👯 Eu adoraria colaborar nos seus projetos, entre em contato comigo!;
 
-- 😄 Pronouns: ela/dela ele/dele;
+- 😄 Pronomes: ela/dela ele/dele;
 
 
 
