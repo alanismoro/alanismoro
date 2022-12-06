@@ -1,16 +1,18 @@
-### Hi there 👋
+👋 Hello world! Eu sou Alanis Moro..
 
-<!--
-**alanismoro/alanismoro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- ✨ Tenho 20 anos;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Atualmente estudo análise e desenvolvimento de sistemas na Uceff;
+
+- 🌱 Estou estudando JavaScript (com JQuery), HTML5, CSS3 e PHP;
+
+- 👯 Eu adoraria colaborar nos seus projetos, entre em contato comigo!;
+
+- 📫 Para trocar uma ideia: @alanismoro ou alanis0204@gmail.com;
+
+- 😄 Pronouns: ela/dela ele/dele;
+
+- 💜 Wakanda Forever 💜 
+
+<img src="https://i.pinimg.com/564x/e9/4f/8d/e94f8dfa3b5aa74d0b5683190d6f7acd.jpg">
