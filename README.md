@@ -5,7 +5,7 @@
 
 - 🔭 Atualmente estudo análise e desenvolvimento de sistemas na Uceff;
 
-- 🌱 Estou estudando JavaScript (com JQuery), HTML5, CSS3 e PHP;
+- 🌱 Atualmente estou estudando C# .NET e JavaScript (com JQuery);
 
 - 👯 Eu adoraria colaborar nos seus projetos, entre em contato comigo!;
 
