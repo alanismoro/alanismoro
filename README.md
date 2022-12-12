@@ -3,7 +3,7 @@
 
 - ✨ Tenho 20 anos;
 
-- 🔭 Atualmente estudo análise e desenvolvimento de sistemas na Uceff;
+- 🔭 Estudo análise e desenvolvimento de sistemas na Uceff, estou no 3° semestre (são 4 no total);
 
 - 🌱 Atualmente estou estudando C# .NET e JavaScript (com JQuery);
 
