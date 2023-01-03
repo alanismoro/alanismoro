@@ -5,7 +5,7 @@
 
 - 🔭 Estudo análise e desenvolvimento de sistemas na Uceff, estou no 3° semestre (são 4 no total);
 
-- 🌱 Atualmente estou estudando C# .NET e JavaScript (com JQuery);
+- 🌱 Atualmente estou estudando C# .NET e PHP;
 
 - 👯 Eu adoraria colaborar nos seus projetos, entre em contato comigo!;
 
