@@ -1,7 +1,7 @@
 👋 Hello world! Eu sou Alanis Moro..
 
 
-- ✨ Tenho 20 anos;
+- ✨ Tenho 21 anos;
 
 - 🔭 Estudo análise e desenvolvimento de sistemas na Uceff, estou no 3° semestre (são 4 no total);
 
