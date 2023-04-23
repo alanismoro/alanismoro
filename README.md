@@ -3,7 +3,7 @@
 
 - ✨ Tenho 21 anos;
 
-- 🔭 Estudo análise e desenvolvimento de sistemas na Uceff, estou no 3° semestre (são 4 no total);
+- 🔭 Estudo análise e desenvolvimento de sistemas na Uceff;
 
 - 🌱 Atualmente estou estudando PHP;
 
