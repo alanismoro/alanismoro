@@ -5,7 +5,7 @@
 
 - 🔭 Estudo análise e desenvolvimento de sistemas na Uceff;
 
-- 🌱 Atualmente estou estudando PHP;
+- 🌱 Atualmente estou desenvolvendo meu portfólio em site;
 
 - 👯 Eu adoraria colaborar nos seus projetos, entre em contato comigo!;
 
