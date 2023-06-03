@@ -14,7 +14,7 @@
 
 - 💻 Tecnologias usadas nos meus projetos:
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt=html5 width=70 height=70> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt=css3 width=70 height=70> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt=javascript width=60 height=60>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" alt=php width=70 height=70> <img src="https://logospng.org/download/java/logo-java-512.png" alt=java width=65 height=65>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt=html5 width=70 height=70> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt=css3 width=70 height=70> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt=javascript width=60 height=60>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" alt=php width=70 height=70> <img src="https://logospng.org/download/java/logo-java-512.png" alt=java width=80 height=80>
 
 
 
