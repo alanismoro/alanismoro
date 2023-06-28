@@ -27,3 +27,5 @@
 </div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alanismoro&layout=compact)](https://github.com/alanismoro/github-readme-stats)
+
+![Snake animation](https://github.com/alanismoro/alanismoro/blob/output/github-contribution-grid-snake.svg)
