@@ -3,7 +3,7 @@
 
 - ✨ Tenho 21 anos;
 
-- 🔭 Estudo análise e desenvolvimento de sistemas na Uceff;
+- 🔭 Estudo análise e desenvolvimento de sistemas;
 
 - 🌱 Atualmente estou desenvolvendo meu portfólio em site;
 
@@ -26,5 +26,8 @@
 <a href="https://www.linkedin.com/in/alanismoro" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alanismoro&layout=compact)](https://github.com/alanismoro/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alanismoro&theme=dark&show_icons=true)
+<div align="center">
+  <a href="https://github.com/alanismoro">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alanismoro&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanismoro&layout=compact&langs_count=7&theme=dark"/>
+</div>
